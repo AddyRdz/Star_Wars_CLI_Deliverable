@@ -1,0 +1,256 @@
+ 496  git clone https://git.generalassemb.ly/seir-1213/Star_Wars_CLI_Deliverable.git
+  497  cd Star_Wars_CLI_Deliverable
+  498  code .
+  499  ls
+  500  mkdir star_wars
+  501  mkdir empire rebellion
+  502  empire
+  503  push darth_vader.txt
+  504  touch dart_vader.txt
+  505  commit -m "...heavy breathing..."
+  506  git commit -m "...heavy breathing..."
+  507  git add
+  508  git add dart_vader.txt
+  509  cd dart_vader.txt
+  510  ls
+  511  cd dart_vader.txt
+  512  cd ..
+  513  ls
+  514  empire
+  515  ls
+  516  dart_vader.txt
+  517  ls
+  518  cd dart_vader.txt
+  519  ls
+  520  git commit -m "...heavy breathing..."
+  521  ls
+  522  cd ..
+  523  ls
+  524  cd ..
+  525  ls
+  526  sei1213 ls
+  527  ls
+  528  cd ..
+  529  pwd
+  530  desktop
+  531  sei1213
+  532  pwd
+  533  ls
+  534  ls ..
+  535  sei1213 ..
+  536  sei1213 ls
+  537  sei1213
+  538  cd ..
+  539  la
+  540  pwd
+  541  ls
+  542  sei1213
+  543  ls
+  544  unit1
+  545  ls
+  546  homework
+  547  ls
+  548  star_wars_cli_deliverable
+  549  ls
+  550  empire
+  551  touch emperor_palpatine.txt
+  552  ls
+  553  cd ..
+  554  star_wars_cli_deliverable
+  555  ls
+  556  empire
+  557  mkdir death_star
+  558  cd ..
+  559  star_wars_cli_deliverable
+  560  cd
+  561  ls
+  562  sei1213
+  563  ls
+  564  uni1
+  565  unit1
+  566  ls
+  567  homework
+  568  ls
+  569  star_wars_cli_deliverable
+  570  ls
+  571  empire
+  572  ls
+  573  mv dart_vader.txt death_star/
+  574  git status
+  575  git add
+  576  git add .
+  577  git commit -a
+  578  git add .
+  579  pwd
+  580  ls
+  581  sei1213
+  582  ls
+  583  unit1
+  584  ls
+  585  homework
+  586  ls
+  587  star_wars_cli_deliverable
+  588  ls
+  589  git add .
+  590  git commit -m "Star Wars"
+  591  cd ..
+  592  homework
+  593  ls
+  594  star_Wars_cli_deliverable
+  595  ls
+  596  rebellion
+  597  cd ..
+  598  ls
+  599  empire
+  600  ls
+  601  death_star
+  602  ls
+  603  echo "...heavy breathing...">>darth_vader.txt
+  604  cd ..
+  605  ls
+  606  rebellion
+  607  touch princess_leia.txt echo "Help me, Obi-Wan...You're my only hope.">>princess_leia.txt
+  608  ls
+  609  rm echo
+  610  pwd
+  611  ls
+  612  sei1213
+  613  ls
+  614  unit1
+  615  ls
+  616  homework
+  617  ls
+  618  star_wars_cli_deliverable
+  619  ls
+  620  rebellion
+  621  ls
+  622  rm rebellion
+  623  cd ..
+  624  ls
+  625  rm rebellion
+  626  pwd
+  627  ls
+  628  sei1213
+  629  ls
+  630  unit1
+  631  ls
+  632  homework
+  633  ls
+  634  star_wars_cli_deliverable
+  635  ls
+  636  rebellion
+  637  ls
+  638  echo "Help me, Obi-Wan...You're my only hope.">>princess_leia.txt
+  639  cd ..
+  640  ls
+  641  rebellion
+  642  touch obi_wan.txt
+  643  touch luke_skywalker.txt
+  644  mkdir millenium_falcon
+  645  millenium_falcon
+  646  touch han_solo.txt chewbecca.txt
+  647  mv luke_skywalker obi_wan princess_leia millenium_falcon/
+  648  cd ..
+  649  mv luke_skywalker millenium_falcon/
+  650  mvluke_skywalker millenium_falcon/
+  651  cd ..
+  652  ls
+  653  empire
+  654  ls
+  655  cd ..
+  656  ls
+  657  rebellion
+  658  ls
+  659  mv luke_skywalker.txt millenuium_falcon/
+  660  luke_skywalker.txt millenium_falcon/
+  661  cd ..
+  662  ls
+  663  mv empire star_wars/
+  664  ls
+  665  mv rebellion star_wars/
+  666  cd star wars
+  667  cd star_wars
+  668  ls
+  669  cd rebellion
+  670  ls
+  671  mv luke_skywalker.txt millenium_falcon/
+  672  cd millenium_falcon
+  673  ls
+  674  cd ..
+  675  mv obi_wan.txt princess_leia.txt millenium_falcon/
+  676  ls
+  677  ls millenium_falcon
+  678  ls
+  679  cd ..
+  680  ls
+  681  mv ./rebellion/millenium_falcon ./empire/death_star
+  682  cd empire
+  683  ls death_star
+  684  rm dart_vader.txt
+  685  cd death_star
+  686  rm dart_vader.txt
+  687  ls
+  688  cd ...
+  689  get status
+  690  git status
+  691  git add .
+  692  git commit -m "Act 2 Completed"
+  693  git status
+  694  git push
+  695  cd...
+  696  cd ...
+  697  ls
+  698  git remote -v
+  699  git remote set-url https://git.generalassemb.ly/addyrdz/Star_Wars_CLI_Deliverable.git
+  700  git clone https://git.generalassemb.ly/addyrdz/Star_Wars_CLI_Deliverable.git
+  701  git remote set-url origin https://git.generalassemb.ly/addyrdz/Star_Wars_CLI_Deliverable.git
+  702  get Star_Wars_CLI_Deliverable
+  703  get status
+  704  git status
+  705  git clone https://git.generalassemb.ly/addyrdz/Star_Wars_CLI_Deliverable.git
+  706  cd Star_Wars_CLI_Deliverable
+  707  git status
+  708  git remote set-url https://git.generalassemb.ly/addyrdz/Star_Wars_CLI_Deliverable.git
+  709  cd star_wars
+  710  ls
+  711  git add .
+  712  git commit -m "Complete Act 2"
+  713  mv ./rebellion/millenium_falcon ./empire/death_star
+  714  ls
+  715  cd rebellion
+  716  ls
+  717  cd ..
+  718  cd empire
+  719  ls
+  720  cd death_star
+  721  ls
+  722  mv ./millenium_falcon/* death_star/
+  723  mv death_star/millenium_falcon/* death_star/\n\nMessage #general
+  724  cd empire
+  725  cd ..
+  726  mv death_star/millenium_falcon/* death_star/
+  727  cd death_star
+  728  ls
+  729  rm obi_wan.txt
+  730  ..
+  731  cd death_star
+  732  mv chewbecca.txt han_solo.txt princess_leia.txt luke_skywalker.txt millenium_falcon
+  733  ls
+  734  ls millenium_falcon
+  735  ...
+  736  mv ./empire/death_star/millenium_falcon ./rebellion
+  737  mv ./empire/death_star/darth_vader.txt ./empire
+  738  cd empire
+  739  ls
+  740  ..
+  741  cd empire
+  742  cd death_star/
+  743  ls
+  744  ..
+  745  rmdir death_star
+  746  ls
+  747  git add .
+  748  ..
+  749  git add .
+  750  git commit -m "Act 3 complete"
+➜  star_wars git:(master) ✗ 
